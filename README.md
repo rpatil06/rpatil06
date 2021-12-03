@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Rohan. I am a Data Engineer with QuickenLoans
+- 👀 I’m interested in SQL, Python, Data Modeling, ETL
+- 🌱 I’m currently learning Data Structure
